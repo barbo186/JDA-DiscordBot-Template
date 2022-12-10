@@ -5,6 +5,6 @@ Obviously you have to read the original JDA page, so you can continue your proje
 
 https://github.com/DV8FromTheWorld/JDA
 
-Use Maven for this project.
+*Note: Use Maven for this project.*
 
 **MADE BY barbo186**
